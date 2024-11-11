@@ -9,3 +9,6 @@ This project introduces a novel EEG-based robotic control system inspired by the
 
 ![圖片](https://github.com/user-attachments/assets/f9412764-4bf7-4932-ba06-d1e12c8f88cd)
 
+## Training Results
+The ViT can reach 98%~99% validation accuracy in the code!
+![image](https://github.com/user-attachments/assets/382aca5e-ef51-42ac-9de5-e5a1016acaff)
