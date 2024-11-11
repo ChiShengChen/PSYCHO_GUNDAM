@@ -1,5 +1,5 @@
 # PSYCHO_GUNDAM
-> A pioneering system integrating EEG and deep learning for real-time robotic control.
+> A pioneering system integrating EEG and deep learning for real-time robotic control.  
 ![圖片](https://github.com/user-attachments/assets/a180608f-65ae-4866-a82d-3380dfe38359)
 
 ![圖片](https://github.com/user-attachments/assets/f9412764-4bf7-4932-ba06-d1e12c8f88cd)
