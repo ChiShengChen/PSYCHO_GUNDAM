@@ -1,4 +1,5 @@
 # PSYCHO_GUNDAM
+[![arXiv](https://img.shields.io/badge/arXiv-2402.15761-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2411.06414) 
 > A pioneering system integrating EEG and deep learning for real-time robotic control.
 
 ## Abstract
