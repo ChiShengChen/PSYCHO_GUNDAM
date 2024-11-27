@@ -13,3 +13,16 @@ This project introduces a novel EEG-based robotic control system inspired by the
 ## Training Results
 The ViT can reach 98%~99% validation accuracy in the code!
 ![image](https://github.com/user-attachments/assets/382aca5e-ef51-42ac-9de5-e5a1016acaff)
+
+
+## Citation
+Hope this code is helpful. I would appreciate you citing us in your paper. 
+```
+@article{chen2024psycho,
+  title={Psycho Gundam: Electroencephalography based real-time robotic control system with deep learning},
+  author={Chen, Chi-Sheng and Wang, Wei-Sheng},
+  journal={arXiv preprint arXiv:2411.06414},
+  year={2024}
+}
+
+```
