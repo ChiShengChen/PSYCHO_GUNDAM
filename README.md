@@ -2,6 +2,9 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2402.15761-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2411.06414) 
 > A pioneering system integrating EEG and deep learning for real-time robotic control.
 
+## Update
+This paper has been accepted by [2024 13th International Symposium on ACG Culture and Technology Studies](https://u-acg.com/archives/29015).
+
 ## Abstract
 This project introduces a novel EEG-based robotic control system inspired by the **Psycho Frame** from the Gundam universe, allowing real-time robotic actions based on human cognitive commands. By capturing brainwave data using an EMOTIV+ EEG cap and processing it through deep learning algorithms, we achieve intuitive control over robotic systems, aiming to expand human-machine interaction capabilities.
 
